@@ -22,7 +22,7 @@ This case study evaluates Campaign A and Campaign B across channels (Email, Inst
 -While existing customers show strong baseline conversion (0.51)
 -New customers viewing Email content convert at an even higher rate (0.63).
 
-📌 **Insight**: Email is not just a retention channel. It is a high-intent acquisition driver when tone and content align.
+📌 **Insight**: Email is not just a retention channel. It is a **high-intent acquisition driver** when tone and content align.
 
 
 
@@ -33,14 +33,16 @@ Campaign A Results
 - **Instagram**: $969.46
 - **Web Banner**: $633.06
 
+Across all channels, **Campaign A consistently outperformed Campaign B** in driving new customer purchases, despite Campaign B generating higher total revenue overall.
 
 
-## Behavioral Insight: "Cold ≠ Less Demand"
 
-- Countries with colder climates show **higher frequency** of consumption, driven by:
-  - **Embedded snack culture**
-  - **Indoor leisure behaviors**
-  - **Strong presence of local and global players**
+## Underperforming Areas
+
+- **Web Banners** recorded:
+  - Lowest conversion rates for both campaigns
+  - Lowest sales overall
+- **Lowest recorded sale**:
 
 
 
