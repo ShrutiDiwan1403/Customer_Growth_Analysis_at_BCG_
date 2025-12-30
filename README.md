@@ -81,22 +81,23 @@ Across all channels, **Campaign A consistently outperformed Campaign B** in driv
 📌 **Insight**: Banner ads deliver reach but minimal conversion impact; especially for acquisition.
 
 
+
 ## Strategic Tradeoff
 
-### -> Product Innovation via Data Analytics  
-   - Major brands (e.g., Unilever) leverage:
-     - **Flavor performance tracking**
-     - **Social sentiment analysis**
-     - **Retail scanner data**
-   - Result: Iterative development of new flavors and SKUs based on **real-time consumer behavior metrics**
+### The Core Decision Point
 
-## Leading Market Players (By Global Market Share) 🏢 
+**New Customer Growth vs. Overall Revenue**
 
-- **Unilever**
-- **Nestlé**
-- **General Mills**
-- **Lotte** (major player in South Korea)
-- **Amul** (major player in India)
+- **Campaign B**
+ - Higher total revenue
+ - Stronger performance with existing customers
+
+- **Campaign A**
+  - Superior new customer conversion
+  - Higher engagement depth
+  - Stronger long-term pipeline value
+
+📌 **Insight**: Optimizing for acquisition may temporarily sacrifice top-line revenue but strengthens future LTV.
 
 
 
