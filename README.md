@@ -125,4 +125,4 @@ First-time customer acquisition is driven by how messages feel, not just where t
 
 ## Components the project covers
 
-**Market Strategy, Market Research, Data Visualization, EXCEL, Data Analysis, Data Interpretation, Segmentation**
+**Market Strategy, Market Research, Data Visualization, EXCEL, Data Analysis, Data Interpretation, Segmentation, Revenue Tradeoffs, Acquisition Strategy**
