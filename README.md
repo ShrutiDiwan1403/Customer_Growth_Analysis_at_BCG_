@@ -52,8 +52,8 @@ This case study evaluates Campaign A and Campaign B across channels (Email, Inst
 
 **Notable Pattern**
 
--While existing customers show strong baseline conversion (0.51)
--New customers viewing Email content convert at an even higher rate (0.63).
+- While existing customers show strong baseline conversion (0.51).
+- New customers viewing Email content convert at an even higher rate (0.63).
 
 📌 **Insight**: Email is not just a retention channel. It is a **high-intent acquisition driver** when tone and content align.
 
