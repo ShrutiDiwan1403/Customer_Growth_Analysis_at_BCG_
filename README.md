@@ -4,29 +4,34 @@
 
 Recent campaign performance analysis highlights a clear pattern in how first-time customers engage with marketing communications.The conversion behavior here is driven less by surface variables (channel presence alone) and more by **tone**, **engagement depth**, and **perceived personalization**.
 
-This case study evaluates Campaign A and Campaign B across channels (Email, Instagram, Web Banner), focusing on new vs. existing customer behavior, conversion rates, time spent, and revenue outcomes. The goal: identify which message tone and channel combination best supports new customer acquisition—while understanding the tradeoff with total revenue.
+This case study evaluates Campaign A and Campaign B across channels (Email, Instagram, Web Banner), focusing on **new vs. existing customer behavior**, conversion rates, time spent, and revenue outcomes. The goal: identify which message tone and channel combination best supports new customer acquisition—while understanding the tradeoff with total revenue.
 
 
 
-## Top 5 Ice Cream Consumers in Europe (2024)
+## Conversion Behavior: New vs. Existing Customers
 
-| Global Rank | Country      | Per Capita Consumption (Litres) | 
-|------|--------------|-------------------------------|
-| 1    | Finland      | 12.8                           | 
-| 2    | Sweden       | 11.9                           |
-| 3    | Denmark      | 11.5                           | 
-| 4    | Ireland      | 11.4 (2025 est.)               | 
-| 5    | Italy        | 10.2                           |
+| Metric                  | New Customers    | Existing Customers |
+| ----------------------- | ---------------- | ------------------ |
+| Highest Conversion Rate | **0.63 (Email)** | 0.51 (Overall)     |
+| Avg. Time on Site       | **106.71 sec**   | Lower              |
+| Best Channel            | Email            | Email              |
+| Weakest Channel         | Web Banner       | Web Banner         |
 
-📌 **Insight**: Cold climates demonstrate **higher annual demand**, highlighting **habitual consumption patterns** over seasonal triggers.
+**Notable Pattern**
+
+-While existing customers show strong baseline conversion (0.51)
+-New customers viewing Email content convert at an even higher rate (0.63).
+
+📌 **Insight**: Email is not just a retention channel. It is a high-intent acquisition driver when tone and content align.
 
 
 
-## Germany’s Downtrend in Focus
+## Revenue Performance by Channel (New Customers)
 
-- **2023 Data**: 7.9 litres per person  
-- **YoY (Year over Year) Change**: Slight decline from 2022  
-- **Analytical Insight**: Indicates potential market saturation or shifting consumer interest towards alternative dessert categories.
+Campaign A Results
+- **Email**: $2,124.47
+- **Instagram**: $969.46
+- **Web Banner**: $633.06
 
 
 
