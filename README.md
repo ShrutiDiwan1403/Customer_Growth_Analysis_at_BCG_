@@ -13,13 +13,13 @@ This case study evaluates Campaign A and Campaign B across channels (Email, Inst
 **Which Channels Reach New Audiences Best?**
 *Ranked by Total Engagement Time (Converted + Non-Converted)*:
 
--**Email**
--**Instagram**
--**Web Banner**
-   -**Total time spent across channels: 9,875.44 seconds**.
-   -Email consistently drove deeper engagement and higher intent actions.
-   -Instagram supported discovery and reinforcement.
-   -Web banners underperformed across all customer types.
+- **Email**
+- **Instagram**
+- **Web Banner**
+   - **Total time spent across channels: 9,875.44 seconds**.
+   - Email consistently drove deeper engagement and higher intent actions.
+   - Instagram supported discovery and reinforcement.
+   - Web banners underperformed across all customer types.
 
 📌 **Insight**: Direct, opt-in channels outperform passive exposure formats for acquisition.
 
