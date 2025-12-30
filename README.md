@@ -89,8 +89,8 @@ Across all channels, **Campaign A consistently outperformed Campaign B** in driv
 **New Customer Growth vs. Overall Revenue**
 
 - **Campaign B**
- - Higher total revenue
- - Stronger performance with existing customers
+   - Higher total revenue
+   - Stronger performance with existing customers
 
 - **Campaign A**
   - Superior new customer conversion
