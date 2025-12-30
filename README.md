@@ -8,6 +8,29 @@ This case study evaluates Campaign A and Campaign B across channels (Email, Inst
 
 
 
+## Channel Effectiveness
+Which Channels Reach New Audiences Best?
+
+Ranked by Total Engagement Time (Converted + Non-Converted):
+
+Email
+
+Instagram
+
+Web Banner
+
+Total time spent across channels: 9,875.44 seconds
+
+Email consistently drove deeper engagement and higher intent actions.
+
+Instagram supported discovery and reinforcement.
+
+Web banners underperformed across all customer types.
+
+📌 Insight: Direct, opt-in channels outperform passive exposure formats for acquisition.
+
+
+
 ## Conversion Behavior: New vs. Existing Customers
 
 | Metric                  | New Customers    | Existing Customers |
@@ -43,10 +66,12 @@ Across all channels, **Campaign A consistently outperformed Campaign B** in driv
   - Lowest conversion rates for both campaigns
   - Lowest sales overall
 - **Lowest recorded sale**:
+  - Web Banner + Campaign A (Existing Customers): **$121.23**
+
+📌 **Insight**: Banner ads deliver reach but minimal conversion impact; especially for acquisition.
 
 
-
-## Other Trends 🍦
+## Strategic Tradeoff
 
 ### -> Decline in Traditional Dairy Ice Cream  
    - Reduced consumption in health-conscious segments  
@@ -98,9 +123,9 @@ These companies are actively utilizing **predictive analytics** and **geographic
 
 ## Conclusion
 
-The frozen dessert market in Europe is undergoing a **strategic shift**, led by **behavioral consumption analytics**, **climate-agnostic demand**, and **plant-based innovation**. In this landscape, brands that lean into **data-driven product strategy** will outperform those relying on traditional seasonal cycles.
+First-time customer acquisition is driven by how messages feel, not just where they appear. Informal, conversational communication—delivered through high-attention channels like Email—creates trust, increases dwell time, and ultimately converts more effectively. **Brands that optimize for engagement quality over sheer exposure will build stronger acquisition funnels and more sustainable growth**.
 
 
-## Components the study covers
+## Components the project covers
 
-**Market Segmentation, Consumption Analytics, Trend Forecasting, and Product Strategy**
+**Market Strategy, Market Research, Data Visualization, EXCEL, Data Analysis, Data Interpretation, Segmentation**
