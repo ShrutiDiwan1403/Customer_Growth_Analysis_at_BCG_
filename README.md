@@ -9,25 +9,19 @@ This case study evaluates Campaign A and Campaign B across channels (Email, Inst
 
 
 ## Channel Effectiveness
-Which Channels Reach New Audiences Best?
 
-Ranked by Total Engagement Time (Converted + Non-Converted):
+**Which Channels Reach New Audiences Best?**
+*Ranked by Total Engagement Time (Converted + Non-Converted)*:
 
-Email
+-**Email**
+-**Instagram**
+-**Web Banner**
+   -**Total time spent across channels: 9,875.44 seconds**.
+   -Email consistently drove deeper engagement and higher intent actions.
+   -Instagram supported discovery and reinforcement.
+   -Web banners underperformed across all customer types.
 
-Instagram
-
-Web Banner
-
-Total time spent across channels: 9,875.44 seconds
-
-Email consistently drove deeper engagement and higher intent actions.
-
-Instagram supported discovery and reinforcement.
-
-Web banners underperformed across all customer types.
-
-📌 Insight: Direct, opt-in channels outperform passive exposure formats for acquisition.
+📌 **Insight**: Direct, opt-in channels outperform passive exposure formats for acquisition.
 
 
 
@@ -123,7 +117,7 @@ These companies are actively utilizing **predictive analytics** and **geographic
 
 ## Conclusion
 
-First-time customer acquisition is driven by how messages feel, not just where they appear. Informal, conversational communication—delivered through high-attention channels like Email—creates trust, increases dwell time, and ultimately converts more effectively. **Brands that optimize for engagement quality over sheer exposure will build stronger acquisition funnels and more sustainable growth**.
+First-time customer acquisition is driven by how messages feel, not just where they appear. Informal, conversational communication,delivered through high-attention channels like Email. It creates trust, increases dwell time, and ultimately converts more effectively. **Brands that optimize for engagement quality over sheer exposure will build stronger acquisition funnels and more sustainable growth**.
 
 
 ## Components the project covers
