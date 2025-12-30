@@ -126,3 +126,7 @@ First-time customer acquisition is driven by how messages feel, not just where t
 ## Components the project covers
 
 **Market Strategy, Market Research, Data Visualization, EXCEL, Data Analysis, Data Interpretation, Segmentation, Revenue Tradeoffs, Acquisition Strategy**
+
+
+<img width="1280" height="720" alt="BCG_Market_Decision_Forage_Poject_" src="https://github.com/user-attachments/assets/5f518922-d081-4324-b808-91ca403da366" />
+
