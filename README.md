@@ -83,23 +83,12 @@ Across all channels, **Campaign A consistently outperformed Campaign B** in driv
 
 ## Strategic Tradeoff
 
-### -> Decline in Traditional Dairy Ice Cream  
-   - Reduced consumption in health-conscious segments  
-   - Market share shift to plant-based products  
-
-### -> Growth of Plant-Based Alternatives  
-   - CAGR: **10%+** (2023–2025)  
-   - Dominant bases: **Oat, Soy, Coconut, Almond**  
-   - Drivers: Dietary preferences, sustainability awareness, lactose intolerance  
-
 ### -> Product Innovation via Data Analytics  
    - Major brands (e.g., Unilever) leverage:
      - **Flavor performance tracking**
      - **Social sentiment analysis**
      - **Retail scanner data**
    - Result: Iterative development of new flavors and SKUs based on **real-time consumer behavior metrics**
-
-
 
 ## Leading Market Players (By Global Market Share) 🏢 
 
@@ -109,26 +98,23 @@ Across all channels, **Campaign A consistently outperformed Campaign B** in driv
 - **Lotte** (major player in South Korea)
 - **Amul** (major player in India)
 
-These companies are actively utilizing **predictive analytics** and **geographic demand modeling** to guide inventory decisions, marketing localization, and SKU planning.
 
 
+## Recommendation
 
-## Product Categories Covered in Dataset
+### Primary Action
+- Prioritize Campaign A via Email for upcoming new-customer acquisition initiatives.
 
-- Dairy-Based Ice Cream  
-- Soft Serve  
-- Gelato & Sorbet  
-- Ice Lollies / Popsicles  
+### Why
+- Highest first-time conversion rate
+- Strongest engagement metrics
+- Consistent performance across channels
+- Messaging tone aligns with trust-building and onboarding goals
 
+### Supporting Channels
 
-
-## Strategic Implications
-
-- **Cultural Insight**: Ice cream is embedded into Nordic and Central European lifestyle consumption, independent of temperature.
-- **Demand Forecasting Opportunity**: Brands can improve **season-agnostic forecasting models**.
-- **Product Development**: Rise in **non-dairy frozen alternatives** presents space for premium pricing and diversified positioning.
-- **Geo-Targeting Strategy**: Countries like *Ireland* and the *Nordics* offer high ROI on **regional marketing activations** and **flavor trials**.
-
+- Use Instagram as a secondary awareness and reinforcement channel.
+- De-prioritize Web Banners for conversion-focused campaigns.
 
 
 ## Conclusion
