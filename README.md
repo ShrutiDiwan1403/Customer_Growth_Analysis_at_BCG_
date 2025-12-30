@@ -12,11 +12,11 @@ This case study evaluates Campaign A and Campaign B across channels (Email, Inst
 
 **Which Tone Resonates with First-Time Customers?**
 
-*Campaign A (Informal, Conversational Tone)* emerges as the strongest performer for new customers.
+***Campaign A (Informal, Conversational Tone)* emerges as the strongest performer for new customers**.
 
 **Key Findings**
 - **Total new customer sales (Campaign A): $3,726.99**
-- **Highest engagement time: 3,654.04 seconds** (Email – Campaign A)
+- **Highest engagement time: 3,654.04 seconds** (Email:  Campaign A)
 - Users who spent more time reading Campaign A emails were significantly more likely to convert.
 - Informal language increased perceived authenticity, making the message feel **personal and trust-building**.
 
